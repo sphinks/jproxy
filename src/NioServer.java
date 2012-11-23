@@ -14,6 +14,10 @@ import java.nio.charset.CharsetDecoder;
 import java.nio.charset.CharsetEncoder;
 import java.util.Iterator;
 
+/**
+ * @author Sphinks
+ * 
+ */
 public class NioServer implements Runnable {
     // хост:порт для прослушивания сервером
     private InetAddress hostAddress;

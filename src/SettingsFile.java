@@ -8,7 +8,7 @@ import java.util.Properties;
 import java.util.Set;
 
 /**
- * @author I.Zerin
+ * @author Sphinks
  * 
  */
 public class SettingsFile {

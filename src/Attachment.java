@@ -2,7 +2,7 @@ import java.nio.ByteBuffer;
 import java.nio.channels.SelectionKey;
 
 /**
- * @author I.Zerin
+ * @author Sphinks
  * 
  */
 public class Attachment {

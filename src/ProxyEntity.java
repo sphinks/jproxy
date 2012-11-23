@@ -1,5 +1,5 @@
 /**
- * @author I.Zerin
+ * @author Sphinks
  * 
  */
 public class ProxyEntity {
